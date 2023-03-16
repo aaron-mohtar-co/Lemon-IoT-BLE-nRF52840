@@ -1,0 +1,15 @@
+# nRF52 DK NRF52840 board configuration
+
+# Copyright (c) 2023 Aaron Mohtar & Co Pty Ltd
+# Copyright (c) 2023 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+if BOARD_LEMON_IOT_BLE_NRF52840
+
+config BOARD
+	default "lemon_iot_ble_nrf52840"
+
+config BT_CTLR
+   default BT
+
+endif

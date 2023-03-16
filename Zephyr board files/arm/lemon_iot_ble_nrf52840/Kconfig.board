@@ -1,0 +1,9 @@
+# nRF52840 Lemon IoT BLE board configuration
+
+# Copyright (c) 2023 Aaron Mohtar & Co Pty Ltd
+# Copyright (c) 2023 Nordic Semiconductor ASA
+# SPDX-License-Identifier: Apache-2.0
+
+config BOARD_LEMON_IOT_BLE_NRF52840
+	bool "Lemon IoT BLE nRF52840"
+	depends on SOC_NRF52840_QIAA
