@@ -1,4 +1,4 @@
-# Lemon IoT - BLE-nRF52840 module
+# Lemon IoT - BLE - nRF52840 module
 This repository is the primary location for support files for the Lemon IoT - BLE nRF52840 module. 
 
 The module is based on a [nRF52840 Multiprotocol Bluetooth 5.3 SoC supporting Bluetooth Low Energy, Bluetooth mesh, NFC, Thread and Zigbee](https://www.nordicsemi.com/products/nrf52840) from Nordic Semiconductor.
